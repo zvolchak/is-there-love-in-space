@@ -1,5 +1,7 @@
 # [Is There Love in Space?](https://en.wikipedia.org/wiki/Is_There_Love_in_Space%3F)
 
+![Screenshot](./screenshot.png)
+
 ## Run locally
 
 Install dependencies:
