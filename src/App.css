@@ -1,0 +1,35 @@
+.App {
+  min-height: 100vh;
+  background-color: #282c34;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: min(50vw, 720px);
+  margin: 0 auto;
+  padding: 48px 24px;
+  box-sizing: border-box;
+  color: white;
+}
+
+.alien-actions {
+  margin-top: 8rem;
+}
+
+.alien-opinion {
+  margin: 16px 0 0;
+  padding: 14px 16px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.06);
+  color: #d7e3ff;
+}
+
+@media (max-width: 768px) {
+  .App-header {
+    width: 100%;
+  }
+}
